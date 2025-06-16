@@ -1,4 +1,4 @@
 # New project
 
 this project was created from local system
-created by hitesh jangid
+created by hitesh jangid.
